@@ -48,6 +48,7 @@ the largest and the smallest is 8-3 = 5.
             
              
             
+            
             ans = Math.min(ans,maxe-mine);
             }
         }
