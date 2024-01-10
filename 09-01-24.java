@@ -7,7 +7,7 @@ Note: Return an empty list incase of no occurences of pattern. Driver will print
 
 Example 1:
 
-Input:
+Input:  
 txt = "geeksforgeeks"
 pat = "geek"
 Output: 
